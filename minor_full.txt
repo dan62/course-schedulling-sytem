@@ -1,0 +1,14 @@
+ITE342   Application Development-IOS
+ITE343   Application Development-Android
+ITE448   Current Topics in Mobile Computing
+ITE451   Cloud Computing
+ITE447   Current Topics in Web Technology
+
+ITE340   E-Commerce Systems and Infrustructure
+ITE362   Digital Advertising Technology
+
+ITE365   Software Quality Management
+ITE435   Software Engineering
+ITE446   Current Topics in Software Engineering
+ITE367   Software Architecture and Modelling
+ITE368   Software Testing and Maintenence

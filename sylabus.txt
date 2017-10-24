@@ -1,0 +1,32 @@
+ITE331	Multimedia Technologies
+ITE101	Introduction to Information Technology
+ITE231	Fundimentals of System Administration
+ITE201	IT Service Desk and Incedent Management
+ITE479	IT Planning and Project Managment
+ITE210	Ethics and Law for Information Technology
+ITE201	Innovation and Creativity
+ITE321	System Analysis,Design and Implementation
+ITE120	Web Development I
+ITE442	Database Managment Systems
+ITE337	Content Managment Systems
+ITE420	Information and System Security
+ITE441	Fundimentals of Database System
+ITE233	Application Development
+ITE220	Web Development II
+ITE222	Programming II
+ITE221	Programming I
+ITE254	Human Computer Interaction
+ITE240	Principles of Operating Systems
+ITE475	Data Communication and Networking
+ITE342	Application Development-IOS
+ITE451	Cloud Computing
+ITE343	Application Development-Android
+ITE447	Current Topics in Web Technology
+ITE448	Current Topics in Mobile Computing
+ITE362	Digital Advertising Technology
+ITE340	E-Commerce Systems and Infrastructure
+ITE365	Software Quality Managment
+ITE435	Software Engineering
+ITE446	Current Topics in Software Engineering
+ITE367	Software Architecture and Modelling
+ITE368	Software Testing and Maintenance

@@ -1,0 +1,8 @@
+ITE101	ITE321 System Analysis and Design , ITE240 Principles Of Operating Systems
+ITE321	ITE479 IT Planning and Project Managment
+ITE441	ITE442 Database Managment Systems
+ITE120	ITE337 Content Managment Systems , ITE220 Web Development 2 , ITE254 Human Computer Interaction
+ITE221	ITE222 Programming 2
+ITE222	ITE342 Application Development-IOS , ITE343 Application Development-Android 
+ITE220	ITE223 Application Development , ITE451 Cloud Computing , ITE447 Current Topics of Web Technology , ITE448 Current Topics in Mobile Computing
+ITE240 : ITE475	ITE420 Informtion and System Security
